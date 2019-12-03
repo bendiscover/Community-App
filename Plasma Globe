@@ -1,11 +1,11 @@
 <center>🌏🌍🌎</center>
 <!–– EDIT INTRO TEXT (1/4) ––>
-<em>If you're enjoying this article, you might like our Brain Coasters set from our <a href="https://store.discover.earth" target="_blank" rel="noopener noreferrer">Discover Earth Store</a>. Check it out below!</em>
+<em>If you're enjoying this article, you might like our Plasma Globes from our <a href="https://store.discover.earth" target="_blank" rel="noopener noreferrer">Discover Earth Store</a>. Check them out below!</em>
 <!–– INTRO TEXT END ––>
-	
+
 <!–– BLOG ONLY SECTION START ––>
 <!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (2/4) ––>
-<div id='product-component-93feaf83c19'></div>
+<div id='product-component-06626e38bf7'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -37,20 +37,18 @@
 
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
-            id: [3694338342987],
-            node: document.getElementById('product-component-93feaf83c19'),
+            id: [3692756074571],
+            node: document.getElementById('product-component-06626e38bf7'),
             moneyFormat: '%24%7B%7Bamount%7D%7D',
             options: {
   "product": {
     "buttonDestination": "checkout",
-    "layout": "horizontal",
     "variantId": "all",
-    "width": "100%",
+    "width": "380px",
     "contents": {
-      "img": false,
-      "imgWithCarousel": true,
+      "imgWithCarousel": false,
       "variantTitle": false,
-      "description": true,
+      "description": false,
       "buttonWithQuantity": false,
       "quantity": false
     },
@@ -60,8 +58,8 @@
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "100%",
-          "margin-left": "0",
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
           "margin-bottom": "50px"
         }
       },
@@ -82,8 +80,7 @@
       },
       "title": {
         "font-family": "Open Sans, sans-serif",
-        "font-weight": "normal",
-        "font-size": "26px"
+        "font-weight": "normal"
       },
       "description": {
         "font-family": "Open Sans, sans-serif",
@@ -91,13 +88,11 @@
       },
       "price": {
         "font-family": "Open Sans, sans-serif",
-        "font-size": "18px",
         "font-weight": "normal"
       },
       "compareAt": {
         "font-family": "Open Sans, sans-serif",
-        "font-weight": "normal",
-        "font-size": "15px"
+        "font-weight": "normal"
       }
     },
     "googleFonts": [
@@ -245,7 +240,7 @@
 <div class='email-product'>
 
 <!–– UPLOAD A PRODUCT PIC TO MEDIA AND PUT URL ON THE MIDDLE LINE HERE (3/4) ––>
-<img class="aligncenter size-full wp-image-8763" src="https://bigideas.network/wp-content/uploads/2019/06/Brain-coasters.jpg" alt="" width="90%" height="auto" />
+<img class="aligncenter size-full wp-image-8763" src="https://bigideas.network/wp-content/uploads/2019/03/product-image-886803167_900x.jpg" alt="" width="80%" height="auto" />
 <!–– END PRODUCT PIC ––>
 
 <p style="text-align: center;"><a class="store-title-text" href="https://store.discover.earth" target="_top" rel="noopener noreferrer"><img class="store-title-img" src="https://bigideas.network/wp-content/uploads/2019/02/80px-logo.png" srcset="https://bigideas.network/wp-content/uploads/12/2019/02/80px-logo.png 2x" alt="" width="32" height="32" /> Discover Earth Store</a></p>
@@ -253,10 +248,9 @@
 <!–– PUT THE PRODUCT URL ON THE MIDDLE LINE HERE (4/4) ––>
 <p style="text-align: center;"><span class="view-button"><a style="" href="
 
-https://store.discover.earth/products/brain-coasters-set
+https://store.discover.earth/products/plasma-globe
 
 " target="_blank" rel="noopener noreferrer">Get one here!</a></span></p>
 <!–– END URL ––>
-
 </div>
 <center>🌏🌍🌎</center>
