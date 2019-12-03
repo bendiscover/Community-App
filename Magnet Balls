@@ -1,0 +1,262 @@
+<center>🌏🌍🌎</center>
+<!–– EDIT INTRO TEXT (1/4) ––>
+<em>If you're enjoying this article, you might like our multicolour neodymium magnets from our <a href="https://store.discover.earth" target="_blank" rel="noopener noreferrer">Discover Earth Store</a>. Check them out below!</em>
+<!–– INTRO TEXT END ––>
+
+<!–– BLOG ONLY SECTION START ––>
+<!–– INSERT VIDEO (2/4) ––>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SX28WBsi5rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!–– END VIDEO (2/4) ––>
+
+
+<!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (2/4) ––>
+<div id='product-component-3f4b3eb96b9'></div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+
+    (function () {
+      var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+      if (window.ShopifyBuy) {
+        if (window.ShopifyBuy.UI) {
+          ShopifyBuyInit();
+        } else {
+          loadScript();
+        }
+      } else {
+        loadScript();
+      }
+
+      function loadScript() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = scriptURL;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+        script.onload = ShopifyBuyInit;
+      }
+
+      function ShopifyBuyInit() {
+        var client = ShopifyBuy.buildClient({
+          domain: 'discover-earth-store.myshopify.com',
+          storefrontAccessToken: '019296a54df2069ba6fe12629fc5fc83',
+        });
+
+        ShopifyBuy.UI.onReady(client).then(function (ui) {
+          ui.createComponent('product', {
+            id: [3943150125131],
+            node: document.getElementById('product-component-3f4b3eb96b9'),
+            moneyFormat: '%24%7B%7Bamount%7D%7D',
+            options: {
+  "product": {
+    "buttonDestination": "checkout",
+    "variantId": "all",
+    "width": "380px",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "text": {
+      "button": "BUY NOW"
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#0f74b5",
+        "font-family": "Open Sans, sans-serif",
+        ":hover": {
+          "background-color": "#0e68a3"
+        },
+        ":focus": {
+          "background-color": "#0e68a3"
+        },
+        "font-weight": "normal"
+      },
+      "variantTitle": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "description": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "compareAt": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal",
+        "font-size": "12px"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#0f74b5",
+        "font-family": "Open Sans, sans-serif",
+        ":hover": {
+          "background-color": "#0e68a3"
+        },
+        ":focus": {
+          "background-color": "#0e68a3"
+        },
+        "font-weight": "normal"
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    },
+    "googleFonts": [
+      "Open Sans"
+    ]
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#0f74b5",
+        "font-family": "Open Sans, sans-serif",
+        ":hover": {
+          "background-color": "#0e68a3"
+        },
+        ":focus": {
+          "background-color": "#0e68a3"
+        },
+        "font-weight": "normal"
+      },
+      "variantTitle": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "description": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      },
+      "compareAt": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Open Sans, sans-serif",
+        "background-color": "#0f74b5",
+        ":hover": {
+          "background-color": "#0e68a3"
+        },
+        ":focus": {
+          "background-color": "#0e68a3"
+        },
+        "font-weight": "normal"
+      }
+    },
+    "googleFonts": [
+      "Open Sans"
+    ]
+  },
+  "option": {
+    "styles": {
+      "label": {
+        "font-family": "Open Sans, sans-serif"
+      },
+      "select": {
+        "font-family": "Open Sans, sans-serif"
+      }
+    },
+    "googleFonts": [
+      "Open Sans",
+      "Open Sans"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+          });
+        });
+      }
+    })();
+    /*]]>*/
+    </script>
+<!–– SHOPIFY BUTTON END ––>
+<!–– BLOG ONLY SECTION END ––>
+
+<div class='email-product'>
+
+<!–– UPLOAD A PRODUCT PIC TO MEDIA AND PUT IT ON THE MIDDLE LINE HERE (3/4) ––>
+<img class="aligncenter size-full wp-image-8763" src="https://bigideas.network/wp-content/uploads/2019/06/Multicolour-magnetic-balls.jpg" alt="" width="80%" height="auto" />
+<!–– END PRODUCT PIC ––>
+
+<p style="text-align: center;"><a class="store-title-text" href="https://store.discover.earth" target="_top" rel="noopener noreferrer"><img class="store-title-img" src="https://bigideas.network/wp-content/uploads/2019/02/80px-logo.png" srcset="https://bigideas.network/wp-content/uploads/12/2019/02/80px-logo.png 2x" alt="" width="32" height="32" /> Discover Earth Store</a></p>
+
+<!–– PUT THE PRODUCT URL ON THE MIDDLE LINE HERE (4/4) ––>
+<p style="text-align: center;"><span class="view-button"><a style="" href="
+
+https://store.discover.earth/products/multicolour-magnetic-balls-216pcs
+
+" target="_blank" rel="noopener noreferrer">Get one here!</a></span></p>
+<!–– END URL ––>
+</div>
+<center>🌏🌍🌎</center>
