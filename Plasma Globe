@@ -78,6 +78,8 @@ If you're enjoying Discover Earth you might also like our Plasma Globes from our
       },
       "title": {
         "font-family": "Open Sans, sans-serif",
+        /* test color change */
+        "color: #ffffff",
         "font-weight": "normal"
       },
       "description": {
