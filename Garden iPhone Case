@@ -79,7 +79,7 @@ If you're enjoying Discover Earth you might also like our <a href="https://store
       "title": {
         "font-family": "Open Sans, sans-serif",
         /* test color change */
-        "color: #ffffff",
+        "color": "#ffffff",
         "font-weight": "normal"
       },
       "description": {
