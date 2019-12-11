@@ -166,7 +166,7 @@ If you're enjoying Discover Earth you might like our Brain Coasters set from our
       "title": {
         "font-family": "Open Sans, sans-serif",
         /* test color change */
-        "color: #ffffff",
+        "color": "#ffffff",
 	"font-weight": "normal"
       },
       "description": {
