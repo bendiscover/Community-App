@@ -88,6 +88,8 @@ If you're enjoying Discover Earth you might also like our <a href="https://store
       },
       "price": {
         "font-family": "Open Sans, sans-serif",
+        /* color change */
+        "color": "#ffffff",
         "font-weight": "normal"
       },
       "compareAt": {
