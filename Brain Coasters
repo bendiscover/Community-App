@@ -87,6 +87,8 @@ If you're enjoying Discover Earth you might like our Brain Coasters set from our
       },
       "description": {
         "font-family": "Open Sans, sans-serif",
+	/* color change */
+        "color": "#ffffff",
         "font-weight": "normal"
       },
       "price": {
