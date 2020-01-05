@@ -88,6 +88,8 @@ If you're enjoying Discover Earth you might also like our Apollo 11 flight jacke
       },
       "description": {
         "font-family": "Open Sans, sans-serif",
+        /* color change */
+        "color": "#ffffff",
         "font-weight": "normal"
       },
       "price": {
