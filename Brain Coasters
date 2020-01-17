@@ -48,8 +48,8 @@
       "title": {
         "font-family": "Open Sans, sans-serif",
         "font-weight": "normal",
-	"color": "#ffffff",
-        "font-size": "26px"
+        "color": "#ffffff",        
+	"font-size": "26px"
       },
       "button": {
         "font-family": "Open Sans, sans-serif",
@@ -73,8 +73,8 @@
       },
       "price": {
         "font-family": "Open Sans, sans-serif",
-	"color": "#ffffff",
-        "font-size": "18px"
+	"color": "#ffffff", 
+	"font-size": "18px"
       },
       "compareAt": {
         "font-family": "Open Sans, sans-serif",
