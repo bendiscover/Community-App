@@ -3,7 +3,7 @@
 <!–– INTRO TEXT END ––>
 	
 <!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (2/2) ––>
-<div id='product-component-1579227633522'></div>
+<div id='product-component-1579925335523'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -32,24 +32,22 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '3694338342987',
-        node: document.getElementById('product-component-1579227633522'),
+        node: document.getElementById('product-component-1579925335523'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "100%",
-          "margin-left": "0",
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
           "margin-bottom": "50px"
-        },
-        "text-align": "left"
+        }
       },
       "title": {
         "font-family": "Open Sans, sans-serif",
-        "font-weight": "normal",
-        "color": "#ffffff",        
-	"font-size": "26px"
+	"color": "#ffffff",
+        "font-weight": "normal"
       },
       "button": {
         "font-family": "Open Sans, sans-serif",
@@ -73,32 +71,22 @@
       },
       "price": {
         "font-family": "Open Sans, sans-serif",
-	"color": "#ffffff", 
-	"font-size": "18px"
+	"color": "#ffffff"
       },
       "compareAt": {
         "font-family": "Open Sans, sans-serif",
-	"color": "#ffffff",
-        "font-size": "15.299999999999999px"
+	"color": "#ffffff"
       },
       "unitPrice": {
         "font-family": "Open Sans, sans-serif",
-	"color": "#ffffff",
-        "font-size": "15.299999999999999px"
+	"color": "#ffffff"
       },
       "description": {
-        "color": "#ffffff",
-	"font-family": "Open Sans, sans-serif"
+        "font-family": "Open Sans, sans-serif",
+	"color": "#ffffff"
       }
     },
     "buttonDestination": "checkout",
-    "layout": "horizontal",
-    "contents": {
-      "img": false,
-      "imgWithCarousel": true,
-      "description": true
-    },
-    "width": "100%",
     "text": {
       "button": "Buy now"
     },
