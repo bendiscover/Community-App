@@ -1,11 +1,13 @@
-<!–– EDIT INTRO TEXT (1/3) ––>
+<!–– EDIT INTRO TEXT (1/4) ––>
 <p><span class="ad-intro">If you're enjoying Discover Earth you might also like our multicolour neodymium magnets from our <a href="https://store.discover.earth" target="_blank" rel="noopener noreferrer">Discover Earth Store</a>. Check them out below!</span></p>
 <!–– INTRO TEXT END ––>
 
-<!–– INSERT VIDEO (2/3) ––>
+<!–– INSERT VIDEO (2/4) ––>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SX28WBsi5rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (3/3) ––>
+<!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (3/4) ––>
+<!-- UPDATE TITLE, PRICE, COMPAREAT, UNITPRICE, AND DESCRIPTION WITH "color":"white" (4/4) -->
+
 <div id='product-component-1579225973050'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
