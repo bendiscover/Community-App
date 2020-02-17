@@ -48,7 +48,6 @@
       },
       "title": {
         "font-family": "Open Sans, sans-serif",
-	"color": "white",
         "font-weight": "normal"
       },
       "button": {
@@ -72,20 +71,16 @@
         "padding-bottom": "16px"
       },
       "price": {
-        "font-family": "Open Sans, sans-serif",
-	"color": "white"
+        "font-family": "Open Sans, sans-serif"
       },
       "compareAt": {
-        "font-family": "Open Sans, sans-serif",
-	"color": "white"
+        "font-family": "Open Sans, sans-serif"
       },
       "unitPrice": {
-        "font-family": "Open Sans, sans-serif",
-	"color": "white"
+        "font-family": "Open Sans, sans-serif"
       },
       "description": {
-        "font-family": "Open Sans, sans-serif",
-	"color": "white"
+        "font-family": "Open Sans, sans-serif"
       }
     },
     "width": "580px",
