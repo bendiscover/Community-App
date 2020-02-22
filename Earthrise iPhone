@@ -5,7 +5,7 @@
 <!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (2/3) ––>
 <!-- UPDATE TITLE, PRICE, COMPAREAT, UNITPRICE, AND DESCRIPTION WITH "color":"white" (3/3) -->
 
-<div id='product-component-1582175125509'></div>
+<div id='product-component-1582367691954'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -34,7 +34,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '3694338342987',
-        node: document.getElementById('product-component-1582175125509'),
+        node: document.getElementById('product-component-1582367691954'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
