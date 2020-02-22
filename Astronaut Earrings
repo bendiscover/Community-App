@@ -5,7 +5,7 @@
 <!–– GET ITEM ID NUMBER FROM SHOPIFY BUY BUTTON (2/3) ––>
 <!-- UPDATE PRODUCT-COMPONENT ID WITH NEW ID NUMBER (3/3) -->
 
-<div id='product-component-1581991548360'></div>
+<div id='product-component-1582367785686'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -34,7 +34,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '3694338342987',
-        node: document.getElementById('product-component-1581991548360'),
+        node: document.getElementById('product-component-1582367785686'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
