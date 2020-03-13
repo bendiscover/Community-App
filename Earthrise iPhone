@@ -5,7 +5,7 @@
 <!–– COPY AND PASTE FROM SHOPIFY BUY BUTTON (2/3) ––>
 <!-- UPDATE TITLE, PRICE, COMPAREAT, UNITPRICE, AND DESCRIPTION WITH "color":"white" (3/3) -->
 
-<div id='product-component-1582367691954'></div>
+<div id='product-component-1584061546554'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -33,8 +33,8 @@
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '3694338342987',
-        node: document.getElementById('product-component-1582367691954'),
+        id: '3671241752651',
+        node: document.getElementById('product-component-1584061546554'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -48,8 +48,8 @@
       },
       "title": {
         "font-family": "Open Sans, sans-serif",
-        "font-weight": "normal",
-	"color":"white"
+	cc
+        "font-weight": "normal"
       },
       "button": {
         "font-family": "Open Sans, sans-serif",
@@ -73,22 +73,21 @@
       },
       "price": {
         "font-family": "Open Sans, sans-serif",
-	"color":"white"
+	"font-color": "white"
       },
       "compareAt": {
         "font-family": "Open Sans, sans-serif",
-	"color":"white"
+	"font-color": "white"
       },
       "unitPrice": {
         "font-family": "Open Sans, sans-serif",
-	"color":"white"
+	"font-color": "white"
       },
       "description": {
         "font-family": "Open Sans, sans-serif",
-	"color":"white"
+	"font-color": "white"
       }
     },
-    "width": "580px",
     "text": {
       "button": "Add to cart"
     },
@@ -142,19 +141,24 @@
       },
       "title": {
         "font-family": "Open Sans, sans-serif",
+	"font-color": "white",
         "font-weight": "normal"
       },
       "price": {
-        "font-family": "Open Sans, sans-serif"
+        "font-family": "Open Sans, sans-serif",
+	"font-color": "white"
       },
       "compareAt": {
-        "font-family": "Open Sans, sans-serif"
+        "font-family": "Open Sans, sans-serif",
+	"font-color": "white"
       },
       "unitPrice": {
-        "font-family": "Open Sans, sans-serif"
+        "font-family": "Open Sans, sans-serif",
+	"font-color": "white"
       },
       "description": {
-        "font-family": "Open Sans, sans-serif"
+        "font-family": "Open Sans, sans-serif",
+	"font-color": "white"
       }
     },
     "googleFonts": [
